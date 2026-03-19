@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: ensures user needs are at the core of solution design; involved from discovery through delivery.
+- Scrum Master: facilitates agile ceremonies and removes team impediments; engaged throughout active delivery sprints.
+- Solution Architect: owns the high-level technical vision and architecture decisions; involved during planning and throughout implementation.
+- Technical Writer: ensures documentation is clear and up-to-date; engaged from planning through release.
+
+For full role descriptions and interaction patterns, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) and the [Role Interaction Matrix](octoacme-role-interaction-matrix.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
